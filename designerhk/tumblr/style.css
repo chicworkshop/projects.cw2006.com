@@ -3020,7 +3020,7 @@ a {
 .caption .link * {
     line-height: 1.16;
 }
-.post-content.photoset {
+body.permalink .post-content.photoset {
     padding: 14px 14px 0;
 }
 #sub-footer {
