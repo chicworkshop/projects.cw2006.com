@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*general */
+body {
+	background: #9A8F83 url(images/bg_gradient_main.png) repeat-x ;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:75%;
+	line-height:1.35em;
+	margin:0;
+	padding:0;
+}
+a, a:hover, a:active {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a {
+	outline:none;
+}
+a img {
+	border: 0;
+}
+/* layout */
+#wrapper {
+	width: 540px;
+	margin: 10px auto;
+	padding: 0;
+}
+#container {
+	background:  #351800 url(images/pageBg.jpg) no-repeat;
+}
+#pageTitle {
+	padding: 70px 0 50px;
+	text-align:right;
+}
+#main {
+	font-size: 120%;
+	text-align:center;
+}
+#footer {
+}
+.message {
+	width: 494px;
+	margin:20px 0;
+	padding: 20px;
+	text-align: center;
+	background: #4c3617;
+	border: 3px solid #261100;
+}
+/* page */
+.tblNormal td {
+	padding: 5px 10px;
+}
+.tblSelCookie td {
+	text-align: center;
+	padding: 5px 10px;
+}
+/*
+body, td, th {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 12px;
+}
+table {
+	border: 0;
+	background: #999999;
+	margin: 20px 0 0;
+}
+td {
+	padding:3px;
+	background: #FFFFFF;
+}*/
+
+#report {
+	padding: 10px;
+}
+#report table {
+	border: 0;
+	color: #333333;
+	background-color: #999;
+}
+#report th, #report td {
+	padding: 3px;
+	background: #FFFFFF;
+}
+#report th {
+	text-transform: capitalize;
+}

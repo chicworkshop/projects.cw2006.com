@@ -1,0 +1,105 @@
+/* CSS Document */
+
+body {
+	background-color: #F7F7F7;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 12px;
+}
+.pageCell {
+	margin:10px auto;
+	width:770px;
+}
+.pageTop {
+	background: url(images/page_top.png) no-repeat;
+	height: 60px;
+	padding: 60px 30px 30px;
+	font-size: 10pt;
+	color: #666666;
+}
+.pageMain {
+	background: url(images/page_loop.png) repeat-y;
+}
+.pageBottom {
+	background: url(images/page_bottom.png) no-repeat;
+	height: 40px;
+}
+.mainTblSubHead {
+	color: #990000;
+	font-weight: normal;
+	font-size: 12pt;
+	padding: 10px 0 5px 0;
+}
+.mainTblCell {
+	padding: 0 50px 0 20px;
+	float: right;
+	width: 480px;
+}
+.sidebarTblCell {
+	padding: 0 20px 0 50px;
+	float: left;
+	width: 140px;
+}
+/* style */
+a {
+	color: #0099FF;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.SiteName {
+	color:#0099FF;
+	font-size:14pt;
+	font-weight: bold;
+	padding: 0;
+	display: block;
+}
+.pageName {
+	color:#666666;
+	font-size:12pt;
+	font-weight: bold;
+	padding: 0 0 10px;
+	display: block;
+}
+.link {
+	padding:0;
+	list-style-type: none;
+	margin: 0 0 10px;
+}
+.list li {
+	padding:2px 0;
+}
+.list {
+	padding:0;
+	list-style-type: decimal;
+	margin: 0 0 10px;
+	list-style-position: inside;
+}
+.link li {
+	padding:2px 0;
+}
+.mainSpacer {
+	height:20px;
+}
+.footer {
+	color: #666666;
+	font-size: 8pt;
+	padding: 10px;
+}
+.footer a {
+	color: #CC0000;
+	text-decoration: none;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
+/* misc */
+.clear {
+	clear:both;
+	height:0px;
+	margin:0pt;
+	visibility:hidden;
+}
