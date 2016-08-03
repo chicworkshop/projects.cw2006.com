@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*general */
+body {
+	background: #9A8F83 url(images/bg_gradient_main.png) repeat-x;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:75%;
+	line-height:1.35em;
+	margin:0;
+	padding:0;
+}
+a, a:hover, a:active {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a {
+	outline:none;
+}
+a img {
+	border: 0;
+}
+/* float */
+.floatLeft {
+	float:left;
+}
+.floatRight {
+	float:left;
+}
+.floatNone {
+	float: none;
+}
+/* layout */
+#wrapper {
+	width: 540px;
+	margin: 10px auto;
+	padding: 0;
+}
+#container {
+}
+#pageTitle {
+	height: 200px;
+}
+#main {
+	font-size: 120%;
+	margin: 70px 0 0;
+}
+#footer {
+}
+.message {
+	width: 494px;
+	margin:20px 0;
+	padding: 20px;
+	text-align: center;
+	background: #b5cff0;
+	border: 3px solid #25466f;
+}
+.input {
+	padding: 6px 0 0 190px;
+	height: 27px;
+}
+.inputMessage {
+	padding: 25px 0 0 190px;
+	height: 45px;
+}
+.inputCheckbox {
+	padding: 6px 0 0 70px;
+	height: 40px;
+}
+.inputTerms {
+	padding: 6px 0 0 70px;
+	height: 25px;
+}
+.terms {
+	font-size: 80%;
+}
+.btn {
+	padding: 6px 0 0;
+	height: 30px;
+	text-align:center;
+}
+.sentbtn{
+	height: 35px;
+}
+/* page */
+.tblNormal td {
+	padding: 5px 10px;
+}
+.tblSelCookie td {
+	text-align: center;
+	padding: 5px 10px;
+	width: 60px;
+}
+#report {
+	padding: 10px;
+}
+#report table {
+	border: 0;
+	color: #333333;
+	background-color: #999;
+}
+#report th, #report td {
+	padding: 3px;
+	background: #FFFFFF;
+}
+#report th {
+	text-transform: capitalize;
+}
+.btnContainer {
+	width: auto;
+	padding: 0 100px;
+}
+/* button */
+a.ovalbutton {
+	background: transparent url(images/btn_L.png) no-repeat top left;
+	display: block;
+	/*float: left;*/
+	font: normal 13px; /* Change 13px as desired */
+	line-height: 16px; /* This value + 4px + 4px (top and bottom padding of SPAN) must equal height of button background (default is 24px) */
+	height: 24px; /* Height of button background height */
+	padding-left: 10px; /* Width of left menu image */
+	text-decoration: none;
+}
+a:link.ovalbutton, a:visited.ovalbutton, a:active.ovalbutton {
+	color: #fff; /*button text color*/
+}
+a.ovalbutton span {
+	background: transparent url(images/btn_R.png) no-repeat top right;
+	display: block;
+	padding: 4px 10px 4px 0; /*Set 11px below to match value of 'padding-left' value above*/
+}
+a.ovalbutton:hover { /* Hover state CSS */
+	background-position: bottom left;
+}
+a.ovalbutton:hover span { /* Hover state CSS */
+	background-position: bottom right;
+	color: fff;
+}
+.buttonwrapper { /* Container you can use to surround a CSS button to clear float */
+	overflow: hidden; /*See: http://www.quirksmode.org/css/clearing.html */
+	width: 100%;
+}
