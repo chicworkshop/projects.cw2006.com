@@ -1,0 +1,70 @@
+<FlippingBook>
+	<width>1000</width>
+	<height>500</height>
+
+	<scaleContent>true</scaleContent>
+	<firstPage>0</firstPage>
+	<alwaysOpened> false </alwaysOpened>
+	<autoFlip> 100 </autoFlip>
+	<flipOnClick> true </flipOnClick>
+
+	<staticShadowsDepth> 2 </staticShadowsDepth>
+	<dynamicShadowsDepth> 3 </dynamicShadowsDepth>
+
+	<moveSpeed> 3 </moveSpeed>
+	<closeSpeed> 3 </closeSpeed>
+	<gotoSpeed> 5 </gotoSpeed>
+
+	<flipSound>sound/01.mp3</flipSound>
+	<pageBack> 0x666666 </pageBack>
+
+	<loadOnDemand> true </loadOnDemand>
+	<cachePages> true </cachePages>
+
+   	<cacheSize> 10 </cacheSize>
+	<preloaderType> Round </preloaderType>
+	<userPreloaderId></userPreloaderId>
+
+	<pages>
+		<page>images/Page0a_Covers.jpg</page>	
+		<page>images/Page0b_inside_cover.jpg</page>
+		<page>images/Page1_Front.jpg</page>
+		<page>images/Page2_History_0407.swf</page>
+		<page>images/Page3_HarbourSide.swf</page>
+		<page>images/Page4_HarbourSide_V40615.jpg</page>
+		<page>images/Page5_HarbourSide_V40615.jpg</page>
+		<page>images/Page6_HarbourSide.jpg</page>
+		<page>images/Page7_HarbourSide.jpg</page>
+		<page>images/Page8_HarbourSide(client).jpg</page>
+		<page>images/Page9_HarbourSide(client).jpg</page>
+		<page>images/Page10_Summit.jpg</page>
+		<page>images/Page11_Summit.jpg</page>
+		<page>images/Page12_Summit0615.jpg</page>
+		<page>images/Page13_Summit0615.jpg</page>
+		<page>images/Page14_Plaza66.jpg</page>
+		<page>images/Page15_Plaza66.jpg</page>
+		<page>images/Page16_Plaza66(client).jpg</page>
+		<page>images/Page17_Plaza66(client).jpg</page>
+		<page>images/Page18_Plaza66.jpg</page>
+		<page>images/Page19_Plaza66.jpg</page>
+		<page>images/Page20_GrandGateway(client).jpg</page>
+		<page>images/Page21_GrandGateway(client).jpg</page>
+		<page>images/Page22_GrandGateway.jpg</page>
+		<page>images/Page23_GrandGateway.jpg</page>
+		<page>images/Page24_GrandGateway.jpg</page>
+		<page>images/Page25_GrandGateway.jpg</page>
+		<page>images/Page26_TianJin.jpg</page>
+		<page>images/Page27_TianJin.jpg</page>
+		<page>images/Page28_ShenYeung.jpg</page>
+		<page>images/Page29_ShenYeung.jpg</page>
+		<page>images/Page30_china-map-0615.jpg</page>
+		<page>images/Page31_china-map-0615.jpg</page>
+		<page>images/Page32_Management.jpg</page>
+		<page>images/Page33_Management.jpg</page>
+		<page>images/Page34_Management.jpg</page>
+		<page>images/Page35_Management.jpg</page>
+		<page>images/Page36_back.jpg</page>
+		<page>images/Page37_Gate-fold.jpg</page>
+		<page>images/back0607.jpg</page>
+	</pages>
+</FlippingBook>
