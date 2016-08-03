@@ -1,0 +1,6 @@
+<!--start-->
+<script language='JavaScript' type="text/javascript">
+ var adurl = window.location.href;
+document.write('<div class="advertisement group-tids-5" id="group-id-tids-5"><scr' + 'ipt type="text/javascript" src="http://ad.cw2006.com/sites/all/modules/ad/serve.php?q=1&amp;k=07a0368a2f4e216939e65d986b3e7246&amp;c=file&amp;f=10&amp;p=sites%2Fad.cw2006.com%2Ffiles&amp;t=5&amp;u=admin%2Fcontent%2Fad%2Fad_remote&amp;l=admin%2Fcontent%2Fad%2Fad_remote">'+'</scr'+ 'ipt></div>')
+</script>
+<!--end-->
