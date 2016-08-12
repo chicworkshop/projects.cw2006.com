@@ -1,0 +1,52 @@
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/page_bg.gif);
+	background-repeat: repeat-x;
+}
+body,td,th {
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 9pt;
+}
+body a{
+	color: #FF9900;
+	text-decoration: none;
+}
+body a:hover{
+	color:#FFCC00;
+	text-decoration: none;
+}
+h3 {
+	font-size: 12pt;
+	color: #990000;
+	padding: 5px 0 5px 0;
+	margin: 0;
+	font-weight: bold;
+}
+.pageName{
+	padding: 10px 20px;
+	font-size: 16pt;
+	background-color: #E5E5E5;
+	color: #666666;
+}
+.pageContent{
+	padding: 10px 20px;
+	background-color: #E5E5E5;
+}
+.pageNote{
+	padding: 10px 20px;
+	background-color: #E5E5E5;
+	color: #666666;
+	font-size: 8pt;
+}
+.btnBack{
+	padding: 10px 20px;
+	text-align:right;
+}
+.footer, .footer a{
+	color: #FFFFFF;
+}

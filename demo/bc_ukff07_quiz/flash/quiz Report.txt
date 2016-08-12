@@ -1,0 +1,350 @@
+quiz.swf Movie Report
+
+
+
+Frame #    Frame Bytes    Total Bytes    Scene
+
+    
+    
+    
+
+      1          31172          31172    Scene 1 (AS 2.0 Classes Export Frame)
+      2              1          31173    
+      3              1          31174    
+      4              1          31175    
+      5              1          31176    
+      6              1          31177    
+      7              1          31178    
+      8              1          31179    
+      9              1          31180    
+     10              1          31181    
+     11              1          31182    
+     12              1          31183    
+     13              1          31184    
+     14              1          31185    
+     15              1          31186    
+     16              1          31187    
+     17              1          31188    
+     18              1          31189    
+     19              1          31190    
+     20              1          31191    
+     21              1          31192    
+     22              1          31193    
+     23              1          31194    
+     24              1          31195    
+     25              1          31196    
+     26              1          31197    
+     27              1          31198    
+     28              1          31199    
+     29              1          31200    
+     30              1          31201    
+     31              1          31202    
+     32             45          31247    
+     33              9          31256    
+     34              9          31265    
+     35              9          31274    
+     36            229          31503    
+     37             18          31521    
+     38             18          31539    
+     39             18          31557    
+     40             18          31575    
+     41             18          31593    
+     42              9          31602    
+     43              9          31611    
+     44              9          31620    
+     45              9          31629    
+     46              9          31638    
+     47              9          31647    
+     48              7          31654    
+     49              1          31655    
+     50              1          31656    
+     51              1          31657    
+     52              1          31658    
+     53              1          31659    
+     54              1          31660    
+     55              1          31661    
+     56              1          31662    
+     57              1          31663    
+     58              1          31664    
+     59              1          31665    
+     60              1          31666    
+     61              1          31667    
+     62              1          31668    
+     63              1          31669    
+     64              1          31670    
+     65              1          31671    
+     66              1          31672    
+     67              1          31673    
+     68              1          31674    
+     69              1          31675    
+     70              1          31676    
+     71              1          31677    
+     72              1          31678    
+     73              1          31679    
+     74              1          31680    
+     75              1          31681    
+     76              1          31682    
+     77              1          31683    
+     78              1          31684    
+     79              1          31685    
+     80              1          31686    
+     81              1          31687    
+     82              1          31688    
+     83              1          31689    
+     84            162          31851    
+     85              9          31860    
+     86              9          31869    
+     87              9          31878    
+     88              9          31887    
+     89              9          31896    
+     90              9          31905    
+     91              9          31914    
+     92              9          31923    
+     93              9          31932    
+     94              9          31941    
+     95           1437          33378    
+     96              5          33383    
+     97              1          33384    
+     98              1          33385    
+     99              1          33386    
+    100              8          33394    
+    101             12          33406    
+    102             12          33418    
+    103             12          33430    
+    104             12          33442    
+    105             12          33454    
+    106             12          33466    
+    107             12          33478    
+    108             12          33490    
+    109            123          33613    
+    110             16          33629    
+    111             14          33643    
+    112             14          33657    
+    113             15          33672    
+    114             15          33687    
+    115             15          33702    
+    116             15          33717    
+    117             15          33732    
+    118             15          33747    
+    119             15          33762    
+    120             15          33777    
+    121             15          33792    
+    122             12          33804    
+    123              9          33813    
+    124              9          33822    
+    125              9          33831    
+    126              9          33840    
+    127              9          33849    
+    128              9          33858    
+    129              9          33867    
+    130              9          33876    
+    131              9          33885    
+    132              9          33894    
+    133              9          33903    
+    134              9          33912    
+    135              6          33918    
+    136           1557          35475    
+    137            150          35625    
+    138            222          35847    
+    139              3          35850    
+    140              7          35857    
+    141              1          35858    
+    142              1          35859    
+    143              1          35860    
+    144            354          36214    
+    145              1          36215    
+    146            193          36408    
+    147              6          36414    
+    148              1          36415    
+    149              1          36416    
+    150              1          36417    
+    151              1          36418    
+    152              1          36419    
+    153              1          36420    
+    154              1          36421    
+    155              1          36422    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+
+    
+    
+    
+
+Scene 1                                0           109                  1890
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+
+    
+    
+    
+
+btn_temp                               0             0                     0
+back1                                 21             0                     0
+text                                   0            27                     0
+action1                                0             0                     0
+poll_window                            0             0                    14
+btn_poll                               0             0                     0
+btn_poll2                              0             0                     0
+bg2                                    0             0                     1
+light1                                 0             0                     0
+arrow1                                 0             0                     0
+text03_flash                           0            33                     0
+mask1                                 21             0                     0
+window1                               43             0                     0
+text03                                 0            26                     0
+poll                                   0            41                   191
+text02                                 0             0                     0
+text01                                 0            77                     0
+loading                                0             0                     0
+barra                                  0             0                     0
+begin                                 24            50                     0
+submit                                46            42                     0
+mailme                                 0             0                     0
+box_answer                             0             0                    68
+risposta                               0             0                   365
+on                                   135             0                     0
+rigth                                 71             0                     0
+sbagliata                             52             0                     0
+point                                 26             0                     0
+playagain                              0            52                     0
+score                                  0             0                     0
+playagain                              0            52                     0
+btn_score                             47            58                     0
+btn_challenge                          0             0                     0
+temp                                   0            31                    99
+ RadioButton                           0             0                  6323
+FUIComponent                           0             0                  3552
+Component Version                      0             0                     0
+frb_states                             0             0                     5
+ frb_frame                             0             0                   139
+frb_leftOut                           34             0                     0
+frb_leftIn                            33             0                     0
+frb_rightIn                           33             0                     0
+frb_rightOut                          34             0                     0
+frb_background                        29             0                    60
+frb_background                        29             0                    60
+frb_background_pressed                 0             0                    64
+frb_background_pressed                 0             0                    64
+frb_background_disabled               29             0                    64
+frb_background_disabled               29             0                    64
+ frb_dot_disabled                      0             0                    63
+frb_dot_disabled                      30             0                     0
+ frb_dot                               0             0                    55
+frb_dot                               30             0                     0
+FLabel                                 0            79                   632
+frb_hitArea                            0             0                     0
+FBoundingBox                          21             0                   103
+boundingBox                           20             0                     0
+RadioButton Name                      80             0                     0
+ PushButton                            0             0                  3450
+fpb_states                             0             0                     4
+fpb_up                                 0             0                   147
+fpb_rightOutFrame_up                   0             0                     0
+fpb_leftOutFrame_up                    0             0                     0
+fpb_rightInFrame_up                    0             0                     0
+fpb_leftInFrame_up                     0             0                     0
+fpb_face_up                            0             0                     0
+fpb_down                               0             0                   147
+fpb_rightOutFrame_press                0             0                     0
+fpb_leftOutFrame_press                20             0                     0
+fpb_rightInFrame_press                20             0                     0
+fpb_leftInFrame_press                  0             0                     0
+fpb_face_press                        18             0                     0
+fpb_face_press1                       18             0                     0
+fpb_over                               0             0                   147
+fpb_rightOutFrame_over                 0             0                     0
+fpb_leftOutFrame_over                  0             0                     0
+fpb_rightInFrame_over                  0             0                     0
+fpb_leftInFrame_over                   0             0                     0
+fpb_face_over                          0             0                     0
+fpb_disabled                           0             0                   147
+fpb_rightOutFrame_disabled             0             0                     0
+fpb_leftOutFrame_disabled             20             0                     0
+fpb_rightInFrame_disabled              0             0                     0
+fpb_leftInFrame_disabled              18             0                     0
+fpb_face_disabled                     20             0                     0
+fpb_hitArea                           19             0                     0
+PushButton Name                       23             0                     0
+
+Font Name                 Bytes        Characters    
+
+    
+    
+
+_sans                            11    
+Arial                           556     aeghinorstw
+Arial Bold                     1120     .AIPQRSTUVZabcegilmnorstuy
+Verdana Bold                   4694     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Verdana                         911     ?ILOPacdefhiklmnorstw
+
+ActionScript Bytes    Location
+
+    
+
+                 1    fpb_states:actions: frame:1
+               147    fpb_up:README:1
+                 1    fpb_states:actions: frame:2
+               147    fpb_over:README:1
+                 1    fpb_states:actions: frame:3
+               147    fpb_down:README:1
+                 1    fpb_states:actions: frame:4
+               147    fpb_disabled:README:1
+                38     PushButton:Actions: Class:1
+                56    FBoundingBox:README:1
+                47    FBoundingBox:README:2
+                 0    FLabel:Class Methods:1
+                 1    frb_states:actions: frame:1
+               139     frb_frame:README:1
+                60    frb_background:README:1
+                 1    frb_states:actions: frame:2
+                64    frb_background_pressed:README:1
+                 1    frb_states:actions: frame:3
+                64    frb_background_disabled:README:1
+                 1    frb_states:actions: frame:4
+                63     frb_dot_disabled:README:1
+                 1    frb_states:actions: frame:5
+                55     frb_dot:README:1
+                 0    FUIComponent:Actions: Class:1
+                38     RadioButton:Actions: Class:1
+                 1    poll_window:Layer 3:1
+                 1    bg2:Layer 2:1
+                 1    poll:Layer 6:1
+                85    poll:Layer 2:1:No instance name assigned( RadioButton)
+                85    poll:Layer 2:1:No instance name assigned( RadioButton)
+                19    poll:Layer 3:1:No instance name assigned(submit)
+                 1    poll:Layer 6:10
+                 6    poll_window:Layer 2:1:No instance name assigned(btn_poll)
+                 1    poll_window:Layer 3:10
+                 6    poll_window:Layer 2:10:No instance name assigned(btn_poll)
+               632    FLabel:Class Methods:1
+              3552    FUIComponent:Actions: Class:1
+              6285     RadioButton:Actions: Class:1
+              3412     PushButton:Actions: Class:1
+                25    Scene 1:contents:84:No instance name assigned(begin)
+              1426    Scene 1:script:95
+                 1    Scene 1:script:96
+                21    risposta:right:1:right(rigth)
+                21    risposta:wrong:1:wrong(sbagliata)
+               302    risposta:answer:1:No instance name assigned(on)
+                21    risposta:point:1:point(point)
+                68    box_answer:Livello 1:1:answer(risposta)
+               146    Scene 1:script:137
+                25    Scene 1:script:138
+                13    temp:Livello 2:1
+                86    temp:Livello 2:25
+                25    Scene 1:contents:144:No instance name assigned(playagain)
+                91    Scene 1:contents:144:No instance name assigned(btn_score)
+               150    Scene 1:script:146
+                 1    Scene 1:script:147
+
+Bitmap                     Compressed    Compression
+
+    
+  
+  
+
+Bitmap 6                        5856      832000   JPEG Quality=80
+
+
+
+

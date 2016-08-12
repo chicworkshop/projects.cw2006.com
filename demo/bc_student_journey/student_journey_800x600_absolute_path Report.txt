@@ -1,0 +1,781 @@
+student_journey_800x600_absolute_path.swf Movie Report
+-------------------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          39047          39047    Scene 1 (AS 2.0 Classes Export Frame)
+      2             27          39074    
+      3              0          39074    
+      4              0          39074    
+      5              0          39074    
+      6              0          39074    
+      7              0          39074    
+      8              0          39074    
+      9              0          39074    
+     10              0          39074    
+     11              0          39074    
+     12              0          39074    
+     13              0          39074    
+     14              0          39074    
+     15              0          39074    
+     16              0          39074    
+     17              0          39074    
+     18              0          39074    
+     19              0          39074    
+     20              0          39074    
+     21              0          39074    
+     22              0          39074    
+     23              0          39074    
+     24              0          39074    
+     25              0          39074    
+     26              0          39074    
+     27              0          39074    
+     28              0          39074    
+     29              0          39074    
+     30              4          39078    
+     31          68059         107137    
+     32             37         107174    
+     33              0         107174    
+     34              0         107174    
+     35              0         107174    
+     36              0         107174    
+     37              0         107174    
+     38              0         107174    
+     39              0         107174    
+     40              4         107178    
+     41             21         107199    
+     42              0         107199    
+     43              0         107199    
+     44              0         107199    
+     45              0         107199    
+     46              0         107199    
+     47              0         107199    
+     48              0         107199    
+     49              4         107203    
+     50              7         107210    
+     51             15         107225    
+     52              0         107225    
+     53              0         107225    
+     54              0         107225    
+     55              0         107225    
+     56              0         107225    
+     57              0         107225    
+     58              0         107225    
+     59              4         107229    
+     60              0         107229    
+     61           2304         109533    
+     62              0         109533    
+     63              0         109533    
+     64              0         109533    
+     65              0         109533    
+     66              0         109533    
+     67              0         109533    
+     68              0         109533    
+     69              4         109537    
+     70              7         109544    
+     71           1944         111488    
+     72              0         111488    
+     73              0         111488    
+     74              0         111488    
+     75              0         111488    
+     76              0         111488    
+     77              0         111488    
+     78              0         111488    
+     79              4         111492    
+     80              7         111499    
+     81             17         111516    
+     82              0         111516    
+     83              0         111516    
+     84              0         111516    
+     85              0         111516    
+     86              0         111516    
+     87              0         111516    
+     88              0         111516    
+     89              0         111516    
+     90              4         111520    
+     91           1543         113063    
+     92              0         113063    
+     93              0         113063    
+     94              0         113063    
+     95              0         113063    
+     96              0         113063    
+     97              0         113063    
+     98              0         113063    
+     99              4         113067    
+    100              7         113074    
+    101           1298         114372    
+    102              0         114372    
+    103              0         114372    
+    104              0         114372    
+    105              0         114372    
+    106              0         114372    
+    107              0         114372    
+    108              0         114372    
+    109              4         114376    
+    110             10         114386    
+    111           1312         115698    
+    112              0         115698    
+    113              0         115698    
+    114              0         115698    
+    115              0         115698    
+    116              0         115698    
+    117              0         115698    
+    118              0         115698    
+    119              4         115702    
+    120             10         115712    
+    121             24         115736    
+    122              0         115736    
+    123              0         115736    
+    124              0         115736    
+    125              0         115736    
+    126              0         115736    
+    127              0         115736    
+    128              0         115736    
+    129              4         115740    
+    130             10         115750    
+    131             24         115774    
+    132              0         115774    
+    133              0         115774    
+    134              0         115774    
+    135              0         115774    
+    136              0         115774    
+    137              0         115774    
+    138              0         115774    
+    139              4         115778    
+    140             10         115788    
+    141           1295         117083    
+    142              0         117083    
+    143              0         117083    
+    144              0         117083    
+    145              0         117083    
+    146              0         117083    
+    147              0         117083    
+    148              0         117083    
+    149              4         117087    
+    150             10         117097    
+    151             19         117116    
+    152              0         117116    
+    153              0         117116    
+    154              0         117116    
+    155              0         117116    
+    156              0         117116    
+    157              0         117116    
+    158              0         117116    
+    159              0         117116    
+    160              4         117120    
+    161           1938         119058    
+    162              0         119058    
+    163              0         119058    
+    164              0         119058    
+    165              0         119058    
+    166              0         119058    
+    167              0         119058    
+    168              0         119058    
+    169              0         119058    
+    170              4         119062    
+    171           1317         120379    
+    172              0         120379    
+    173              0         120379    
+    174              0         120379    
+    175              0         120379    
+    176              0         120379    
+    177              0         120379    
+    178              0         120379    
+    179              0         120379    
+    180              4         120383    
+    181           1380         121763    
+    182              0         121763    
+    183              0         121763    
+    184              0         121763    
+    185              0         121763    
+    186              0         121763    
+    187              0         121763    
+    188              0         121763    
+    189              0         121763    
+    190              4         121767    
+    191           1274         123041    
+    192              0         123041    
+    193              0         123041    
+    194              0         123041    
+    195              0         123041    
+    196              0         123041    
+    197              0         123041    
+    198              0         123041    
+    199              0         123041    
+    200              4         123045    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                  2176
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+xxxx                                   0             0                     0
+color_white_fadein                     0             0                     0
+icon_builing                       11200             0                     0
+btn_sign_6                             0             0                    35
+btn_sign_5                             0             0                    35
+btn_sign_4                             0             0                    33
+btn_sign_3                             0             0                    33
+btn_sign_2                             0             0                    34
+btn_sign_1                             0             0                    36
+graphic_sign_6                       143            30                     0
+graphic_sign_5                       145            65                     0
+graphic_sign_4                       145            52                     0
+graphic_sign_3                       145            54                     0
+graphic_sign_2                       145            53                     0
+graphic_sign_1                       153            39                     0
+mc_home                                0             0                     0
+color_white                            0             0                     0
+color_grad_001                         0             0                     0
+logo_menu_light                        0             0                     0
+logo_menu_g3                           0             0                     0
+logo_menu_g2                           0             0                     0
+logo_menu_g1                           0             0                     0
+logo_menu_g4                           0             0                     0
+logo_menu                              0             0                     0
+bar_QRblue                            20            22                    17
+bar_grey                              20             0                     0
+bg_white                               0             0                     0
+bg_whitehit                           20             0                     0
+zoompage                               0             0                   468
+zoom_blue                              0             0                     0
+zoom_orange                            0             0                     0
+bg01_mot                               0             0                     0
+cover                                  0             0                     0
+bg01                                   0             0                     0
+mainlogo                               0             0                     0
+btn_download                           0             0                     0
+text_glossary                          0             0                     0
+btn_glossary                           0             0                     0
+search                                 0             0                     0
+maintxt04                              0             0                     0
+maintxt03                              0             0                     0
+maintxt02                              0             0                     0
+maintxt01                              0             0                     0
+arrow1_mot                             0             0                     0
+square_black                           0             0                     0
+square_orange                          0             0                     0
+QRusermenual                           0             0                     0
+title                                  0            22                     0
+title_sub                              0             0                     0
+titleline_blue                         0             0                     0
+titleline_black                        0             0                     0
+graphic_titleline_course               0             0                     0
+titleline_orange                       0             0                     0
+maintxt                                0             0                     0
+bottom                                 0             0                     0
+square_blue                            0             0                     0
+graphic01                              0             0                     0
+board_blue                             0             0                     0
+graphic_board_course                   0             0                     0
+board_orange                           0             0                     0
+btn_go                                 0             0                     0
+square                                 0             0                     0
+square_d1                              0             0                     0
+square_main                            0             0                     0
+square_level1                          0             0                     0
+arrow1                                 0             0                     0
+top_bar                                0             0                     0
+logo_WCSC_full                         0             0                     0
+logo_WCSC_QR                           0             0                     0
+logo_WCSC                              0             0                     0
+logo_adidasGroup_b                     0             0                     0
+logo_adidasGroup_w                     0             0                     0
+scrollbar1b                            0             0                     0
+scrollbar1c                            0             0                     0
+scrollbar1a                            0             0                     0
+scrollbar1d                            0             0                     0
+scrollbar1                             0             0                     0
+logo_british_council                   0             0                     0
+btn rect bevel gold                    0             0                     0
+icon_grad                              0             0                     0
+icon_pencil                            0             0                     0
+icon_book                              0             0                     0
+icon_board                             0             0                     0
+icon_note_book                         0             0                     0
+graphic_signage                      198             0                     0
+logo_british_council_white           602             0                     0
+color_grad_002                        24             0                     0
+graphic_hongkong                     227             0                     0
+graphic_reading                      962             0                     0
+btn_hit                                0             0                     0
+page_GE                                0            43                   308
+icon_business                        638             0                     0
+page_WE                                0            40                   302
+icon_cert                            226             0                     0
+page_IELTS                             0            54                   302
+page_GEG                               0            39                   305
+page_GELS                              0            52                   305
+page_WEW                               0            38                   303
+icon_cef                             512             0                     0
+graphic_board_faq                     77             0                     0
+graphic_titleline_faq                 27             0                     0
+page_cef                               0            38                   304
+icon_up                               35             0                     0
+page_level                             0            19                   304
+icon_question_mark                    92             0                     0
+page_faq                               0            17                   308
+graphic_level                         56             0                     0
+graphic_road                         172            70                     0
+Tween 1                                0             0                     0
+bg1                                    0             0                     0
+bg_hit                                21             0                     0
+zoom_black                            40            17                    36
+bg_window_hit                         42             0                     0
+graphic_board_geg                     77             0                     0
+graphic_titleline_geg                 27             0                     0
+mask                                  18             0                     0
+icon_geg                              83             0                     0
+color_cyan                             0             0                     0
+icon_bullon_001                       57             0                     0
+btn_square_hit                        17             0                     0
+btn_close                             18            19                     0
+loc                                    0             0                     0
+square_geg_b                           0           102                   454
+graphic_board_gels                    77             0                     0
+graphic_titleline_gels                27             0                     0
+icon_gels                             88             0                     0
+square_gels_b                          0           103                   454
+graphic_board_level                   77             0                     0
+graphic_titleline_level               27             0                     0
+icon_level                            34             0                     0
+square_level                           0            82                   454
+square_geg                             0           102                   454
+graphic_board_ge                      77             0                     0
+graphic_titleline_ge                  27             0                     0
+icon_ge                               63             0                     0
+square_ge                             70            98                   454
+graphic_board_we                      77             0                     0
+board_black                           78             0                     0
+graphic_titleline_we                  27             0                     0
+icon_we                               66             0                     0
+square_we                              0           116                   454
+graphic_board_wew                     77             0                     0
+graphic_titleline_wew                 27             0                     0
+icon_wew                              46             0                     0
+square_wew                             0           116                   454
+icon_course_GELS                       0             0                     0
+text_GEG                               0            51                     0
+square_course_GEG                      0             0                    58
+text_GELS                              0            69                     0
+square_course_GELS                     0             0                    58
+text_GE                                0            55                     0
+square_course_GE                       0             0                    57
+text_WE                                0            54                     0
+square_course_WE                       0             0                    57
+text_WEW                               0            54                     0
+square_course_WEW                      0             0                    58
+square_gels                            0           135                   454
+main                                   0             0                 13557
+page_disclaimer                        0            24                   311
+text_home                              0            18                     0
+arrow2                                21             0                     0
+btn_hit1                              18             0                     0
+btn_home                               0             0                    34
+text_faq                               0            16                     0
+btn_faq                                0             0                    34
+text_contact                           0            23                     0
+btn_contact                            0             0                    12
+text_disclaimer                        0            23                     0
+btn_disclaimer                         0             0                    37
+bottom_bar                             0            38                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Arial                            14    
+MS PGothic                     2183    作和在實寫巧技文會法用程聆職聽英話語課
+British Council Sans Black Bold Italic    11777     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+British Council Sans          11636     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+AdiHaus Bold                    252    MOZ
+British Council Sans Black Bold    11560     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Arial Bold                     8715     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+British Council Sans Bold     11440     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+              1918    Scene 1:include:1
+               140    Scene 1:action:1
+                 0    Scene 1:bottom:1
+                 0    mc_home:action:1
+                 0    btn_sign_6:action:1
+                35    btn_sign_6:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_6:action:6
+                 0    btn_sign_5:action:1
+                35    btn_sign_5:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_5:action:6
+                 0    btn_sign_4:action:1
+                33    btn_sign_4:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_4:action:6
+                 0    btn_sign_3:action:1
+                33    btn_sign_3:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_3:action:6
+                 0    btn_sign_2:action:1
+                34    btn_sign_2:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_2:action:6
+                 0    btn_sign_1:action:1
+                36    btn_sign_1:btn_hit:1:No instance name assigned(btn_hit)
+                 0    btn_sign_1:action:6
+                 0    color_white_fadein:Layer 2:11
+                 0    btn_home:Layer 4:1
+                34    btn_home:Layer 1:1:No instance name assigned(btn_hit1)
+                 0    btn_home:Layer 4:6
+                 0    btn_faq:Layer 2:1
+                34    btn_faq:Layer 3:1:No instance name assigned(btn_hit1)
+                 0    btn_faq:Layer 2:6
+                 0    btn_contact:Layer 2:1
+                12    btn_contact:Layer 3:1:No instance name assigned(btn_hit1)
+                 0    btn_contact:Layer 2:6
+                 0    btn_disclaimer:Layer 2:1
+                37    btn_disclaimer:Layer 3:1:No instance name assigned(btn_hit1)
+                 0    btn_disclaimer:Layer 2:6
+                 0    top_bar:Layer 4:35
+                24    Scene 1:action:2
+                 0    Scene 1:action:30
+                19    Scene 1:action:31
+                30    main:GE action:1
+                 0    bg1:action:70
+                66    main:bg_hit:1:bg_hit(bg_hit)
+                 0    square_geg_b:action:1
+               250    square_geg_b:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_geg_b:action:6
+                17    square_geg_b:action:11
+                20    square_geg_b:action:23
+                65    square_geg_b:action:25
+                36    zoom_black:Layer 2:1:No instance name assigned(btn_hit1)
+                78    square_geg_b:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_geg_b:action:60
+                24    square_geg_b:action:61
+               119    main:square:1:GEG6B(square_geg_b)
+               119    main:square:1:GEG5B(square_geg_b)
+               119    main:square:1:GEG4B(square_geg_b)
+                 0    square_gels_b:action:1
+               250    square_gels_b:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_gels_b:action:6
+                17    square_gels_b:action:11
+                20    square_gels_b:action:23
+                65    square_gels_b:action:25
+                78    square_gels_b:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_gels_b:action:60
+                24    square_gels_b:action:61
+               128    main:square:1:GELS4B(square_gels_b)
+                 0    square_level:action:1
+               250    square_level:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_level:action:6
+                17    square_level:action:11
+                20    square_level:action:23
+                65    square_level:action:25
+                78    square_level:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_level:action:60
+                24    square_level:action:61
+                98    main:square:1:level2(square_level)
+                98    main:square:1:level3(square_level)
+                98    main:square:1:level4(square_level)
+                98    main:square:1:level5(square_level)
+                98    main:square:1:level6(square_level)
+                98    main:square:1:level7(square_level)
+                98    main:square:1:level8(square_level)
+                 0    square_geg:action:1
+               250    square_geg:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_geg:action:6
+                17    square_geg:action:11
+                20    square_geg:action:23
+                65    square_geg:action:25
+                78    square_geg:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_geg:action:60
+                24    square_geg:action:61
+               119    main:square:1:GEG4A(square_geg)
+               119    main:square:1:GEG5A(square_geg)
+               119    main:square:1:GEG6A(square_geg)
+                 0    square_ge:action:1
+               250    square_ge:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_ge:action:6
+                17    square_ge:action:11
+                20    square_ge:action:23
+                65    square_ge:action:25
+                78    square_ge:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_ge:action:60
+                24    square_ge:action:61
+               114    main:square:1:GE1(square_ge)
+               120    main:square:1:GE2A(square_ge)
+               120    main:square:1:GE2B(square_ge)
+               120    main:square:1:GE3A(square_ge)
+               120    main:square:1:GE3B(square_ge)
+               120    main:square:1:GE4A(square_ge)
+               120    main:square:1:GE4B(square_ge)
+               120    main:square:1:GE5A(square_ge)
+               120    main:square:1:GE5B(square_ge)
+               120    main:square:1:GE6A(square_ge)
+               120    main:square:1:GE6B(square_ge)
+               120    main:square:1:GE7A(square_ge)
+               120    main:square:1:GE7B(square_ge)
+               120    main:square:1:GE8A(square_ge)
+               120    main:square:1:GE8B(square_ge)
+                 0    square_we:action:1
+               250    square_we:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_we:action:6
+                17    square_we:action:11
+                20    square_we:action:23
+                65    square_we:action:25
+                78    square_we:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_we:action:60
+                24    square_we:action:61
+               118    main:square:1:WE4A(square_we)
+               118    main:square:1:WE4B(square_we)
+               118    main:square:1:WE5A(square_we)
+               118    main:square:1:WE5B(square_we)
+               118    main:square:1:WE6A(square_we)
+               118    main:square:1:WE6B(square_we)
+                 0    square_wew:action:1
+               250    square_wew:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_wew:action:6
+                17    square_wew:action:11
+                20    square_wew:action:23
+                65    square_wew:action:25
+                78    square_wew:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_wew:action:60
+                24    square_wew:action:61
+               118    main:square:1:WEW5A(square_wew)
+               118    main:square:1:WEW5B(square_wew)
+               118    main:square:1:WEW6A(square_wew)
+               118    main:square:1:WEW6B(square_wew)
+                58    square_course_GEG:square_hit:1:No instance name assigned(btn_square_hit)
+               107    main:square:1:C_GEG(square_course_GEG)
+                58    square_course_GELS:square_hit:1:No instance name assigned(btn_square_hit)
+               115    main:square:1:C_GELS(square_course_GELS)
+                57    square_course_GE:square_hit:1:No instance name assigned(btn_square_hit)
+               108    main:square:1:C_GE(square_course_GE)
+                98    main:square:1:level1(square_level)
+                57    square_course_WE:square_hit:1:No instance name assigned(btn_square_hit)
+               106    main:square:1:C_WE(square_course_WE)
+                58    square_course_WEW:square_hit:1:No instance name assigned(btn_square_hit)
+               106    main:square:1:C_WEW(square_course_WEW)
+               128    main:square:1:GELS5B(square_gels_b)
+               128    main:square:1:GELS6B(square_gels_b)
+               128    main:square:1:GELS7B(square_gels_b)
+                 0    square_gels:action:1
+               250    square_gels:square_hit:1:No instance name assigned(btn_square_hit)
+                 0    square_gels:action:6
+                17    square_gels:action:11
+                20    square_gels:action:23
+                65    square_gels:action:25
+                78    square_gels:Layer 5:29:No instance name assigned(btn_close)
+                 0    square_gels:action:60
+                24    square_gels:action:61
+               128    main:square:1:GELS4A(square_gels)
+               128    main:square:1:GELS5A(square_gels)
+               128    main:square:1:GELS6A(square_gels)
+               128    main:square:1:GELS7A(square_gels)
+                26    main:courses action:5
+                27    main:level  action:10
+                27    main:courses action:10
+                27    main:level  action:15
+                26    main:courses action:15
+                25    main:GE action:20
+                27    main:level  action:20
+                26    main:courses action:20
+                26    main:GE action:25
+                27    main:level  action:25
+                26    main:courses action:25
+                26    main:GE action:30
+                26    main:WE action:30
+                27    main:level  action:30
+                26    main:GE action:35
+                26    main:WE action:35
+                27    main:level  action:35
+                55    main:GEG action:40
+                26    main:GE action:40
+                26    main:WE action:40
+                26    main:WEW action:40
+                27    main:level  action:40
+                26    main:GE action:45
+                26    main:WE action:45
+                27    main:level  action:45
+                55    main:GEG action:50
+                56    main:GELS action:50
+                26    main:GE action:50
+                26    main:WE action:50
+                26    main:WEW action:50
+                26    main:GE action:55
+                26    main:WE action:55
+                55    main:GEG action:60
+                56    main:GELS action:60
+                26    main:GE action:60
+                26    main:WEW action:60
+                26    main:GE action:65
+                56    main:GELS action:70
+                26    main:GE action:70
+                26    main:WEW action:70
+                26    main:GE action:75
+                56    main:GELS action:80
+                26    main:GE action:80
+                26    main:GE action:85
+                26    main:GE action:90
+                 0    main:action:101
+               119    main:action:102:GEG6B(square_geg_b)
+               119    main:action:102:GEG5B(square_geg_b)
+               119    main:action:102:GEG4B(square_geg_b)
+               128    main:action:102:GELS4B(square_gels_b)
+                98    main:action:102:level2(square_level)
+                98    main:action:102:level3(square_level)
+                98    main:action:102:level4(square_level)
+                98    main:action:102:level5(square_level)
+                98    main:action:102:level6(square_level)
+                98    main:action:102:level7(square_level)
+                98    main:action:102:level8(square_level)
+               119    main:action:102:GEG4A(square_geg)
+               119    main:action:102:GEG5A(square_geg)
+               119    main:action:102:GEG6A(square_geg)
+               114    main:action:102:GE1(square_ge)
+               120    main:action:102:GE2A(square_ge)
+               120    main:action:102:GE2B(square_ge)
+               120    main:action:102:GE3A(square_ge)
+               120    main:action:102:GE3B(square_ge)
+               120    main:action:102:GE4A(square_ge)
+               120    main:action:102:GE4B(square_ge)
+               120    main:action:102:GE5A(square_ge)
+               120    main:action:102:GE5B(square_ge)
+               120    main:action:102:GE6A(square_ge)
+               120    main:action:102:GE6B(square_ge)
+               120    main:action:102:GE7A(square_ge)
+               120    main:action:102:GE7B(square_ge)
+               120    main:action:102:GE8A(square_ge)
+               120    main:action:102:GE8B(square_ge)
+               118    main:action:102:WE4A(square_we)
+               118    main:action:102:WE4B(square_we)
+               118    main:action:102:WE5A(square_we)
+               118    main:action:102:WE5B(square_we)
+               118    main:action:102:WE6A(square_we)
+               118    main:action:102:WE6B(square_we)
+               118    main:action:102:WEW5A(square_wew)
+               118    main:action:102:WEW5B(square_wew)
+               118    main:action:102:WEW6A(square_wew)
+               118    main:action:102:WEW6B(square_wew)
+               107    main:action:102:C_GEG(square_course_GEG)
+               115    main:action:102:C_GELS(square_course_GELS)
+               108    main:action:102:C_GE(square_course_GE)
+                98    main:action:102:level1(square_level)
+               106    main:action:102:C_WE(square_course_WE)
+               106    main:action:102:C_WEW(square_course_WEW)
+               128    main:action:102:GELS5B(square_gels_b)
+               128    main:action:102:GELS6B(square_gels_b)
+               128    main:action:102:GELS7B(square_gels_b)
+               128    main:action:102:GELS4A(square_gels)
+               128    main:action:102:GELS5A(square_gels)
+               128    main:action:102:GELS6A(square_gels)
+               128    main:action:102:GELS7A(square_gels)
+                27    zoompage:Layer 3:1
+                 0    zoompage:Layer 7:1
+                 0    bar_QRblue:Layer 3:1
+                17    bar_QRblue:Layer 3:19
+               258    zoompage:Layer 3:12
+                47    zoompage:Layer 4:12:btnclose(btn_close)
+                17    zoompage:Layer 3:15
+                41    zoompage:Layer 3:24
+                 0    zoompage:Layer 3:60
+                 7    zoompage:Layer 3:62
+                29    zoompage:Layer 3:70
+                42    zoompage:Layer 3:74
+                33    Scene 1:action:32
+                 0    Scene 1:action:40
+                 0    Scene 1:action:49
+                 3    Scene 1:action:50
+                 0    Scene 1:action:59
+                31    page_GE:action:1
+                 2    page_GE:btn_hit:1:btn_bg_hit(btn_hit)
+                34    page_GE:action:26
+               133    page_GE:low swf:26
+                 2    page_GE:btn_close:26:No instance name assigned(btn_close)
+                 0    page_GE:action:59
+                31    page_GE:action:60
+                60    page_GE:low swf:60
+                15    page_GE:action:68
+                 0    Scene 1:action:69
+                 3    Scene 1:action:70
+                30    page_WE:action:1
+                34    page_WE:action:26
+               133    page_WE:low swf:26
+                 0    page_WE:action:59
+                30    page_WE:action:60
+                60    page_WE:low swf:60
+                15    page_WE:action:68
+                 0    Scene 1:action:79
+                 3    Scene 1:action:80
+                 0    Scene 1:action:90
+                28    page_IELTS:action:1
+                34    page_IELTS:action:26
+               135    page_IELTS:low swf:26
+                 0    page_IELTS:action:59
+                30    page_IELTS:action:60
+                60    page_IELTS:low swf:60
+                15    page_IELTS:action:68
+                 0    Scene 1:action:99
+                 3    Scene 1:action:100
+                31    page_GEG:action:1
+                34    page_GEG:action:26
+               134    page_GEG:low swf:26
+                 0    page_GEG:action:59
+                31    page_GEG:action:60
+                60    page_GEG:low swf:60
+                15    page_GEG:action:68
+                 0    Scene 1:action:109
+                 6    Scene 1:action:110
+                31    page_GELS:action:1
+                34    page_GELS:action:26
+               134    page_GELS:low swf:26
+                 0    page_GELS:action:59
+                31    page_GELS:action:60
+                60    page_GELS:low swf:60
+                15    page_GELS:action:68
+                 0    Scene 1:action:119
+                 6    Scene 1:action:120
+                 0    Scene 1:action:129
+                 6    Scene 1:action:130
+                 0    Scene 1:action:139
+                 6    Scene 1:action:140
+                30    page_WEW:action:1
+                34    page_WEW:action:26
+               134    page_WEW:low swf:26
+                 0    page_WEW:action:59
+                30    page_WEW:action:60
+                60    page_WEW:low swf:60
+                15    page_WEW:action:68
+                 0    Scene 1:action:149
+                 6    Scene 1:action:150
+                 0    Scene 1:action:160
+                28    page_cef:action:1
+                34    page_cef:action:26
+               133    page_cef:low swf:26
+                 0    page_cef:action:59
+                30    page_cef:action:60
+                60    page_cef:low swf:60
+                19    page_cef:action:68
+                 0    Scene 1:action:170
+                27    page_level:action:1
+                34    page_level:action:26
+               134    page_level:low swf:26
+                 0    page_level:action:59
+                30    page_level:action:60
+                60    page_level:low swf:60
+                19    page_level:action:68
+                 0    Scene 1:action:180
+                32    page_faq:action:1
+                34    page_faq:action:26
+               133    page_faq:low swf:26
+                 0    page_faq:action:59
+                30    page_faq:action:60
+                60    page_faq:low swf:60
+                19    page_faq:action:68
+                 0    Scene 1:action:190
+                32    page_disclaimer:action:1
+                34    page_disclaimer:action:26
+               136    page_disclaimer:low swf:26
+                 0    page_disclaimer:action:59
+                30    page_disclaimer:action:60
+                60    page_disclaimer:low swf:60
+                19    page_disclaimer:action:68
+                 0    Scene 1:action:200
+
+
+
+

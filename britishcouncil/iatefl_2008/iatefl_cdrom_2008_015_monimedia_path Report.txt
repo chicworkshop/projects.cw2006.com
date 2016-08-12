@@ -1,0 +1,921 @@
+iatefl_cdrom_2008_015_monimedia_path.swf Movie Report
+------------------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         157316         157316    Scene 1 (AS 2.0 Classes Export Frame)
+      2              1         157317    
+      3              1         157318    
+      4              1         157319    
+      5          30810         188129    
+      6              1         188130    
+      7              1         188131    
+      8              1         188132    
+      9              1         188133    
+     10              1         188134    
+     11          85801         273935    
+     12              1         273936    
+     13              1         273937    
+     14              1         273938    
+     15              1         273939    
+     16              1         273940    
+     17              1         273941    
+     18              1         273942    
+     19              6         273948    
+     20              4         273952    
+     21           5331         279283    
+     22              1         279284    
+     23              1         279285    
+     24              1         279286    
+     25              1         279287    
+     26              1         279288    
+     27              1         279289    
+     28              1         279290    
+     29              6         279296    
+     30              4         279300    
+     31           3314         282614    
+     32              1         282615    
+     33              1         282616    
+     34              1         282617    
+     35              1         282618    
+     36              1         282619    
+     37              1         282620    
+     38              1         282621    
+     39              6         282627    
+     40              4         282631    
+     41          26365         308996    
+     42              1         308997    
+     43              1         308998    
+     44              1         308999    
+     45              1         309000    
+     46              1         309001    
+     47              1         309002    
+     48              1         309003    
+     49              6         309009    
+     50              4         309013    
+     51           4914         313927    
+     52              1         313928    
+     53              1         313929    
+     54              1         313930    
+     55              1         313931    
+     56              1         313932    
+     57              1         313933    
+     58              1         313934    
+     59              6         313940    
+     60              4         313944    
+     61          19830         333774    
+     62              1         333775    
+     63              1         333776    
+     64              1         333777    
+     65              1         333778    
+     66              1         333779    
+     67              1         333780    
+     68              1         333781    
+     69              6         333787    
+     70              4         333791    
+     71           2109         335900    
+     72              1         335901    
+     73              1         335902    
+     74              1         335903    
+     75              1         335904    
+     76              1         335905    
+     77              1         335906    
+     78              1         335907    
+     79              6         335913    
+     80              4         335917    
+     81           4254         340171    
+     82              1         340172    
+     83              1         340173    
+     84              1         340174    
+     85              1         340175    
+     86              1         340176    
+     87              1         340177    
+     88              1         340178    
+     89              6         340184    
+     90              4         340188    
+     91            708         340896    
+     92              1         340897    
+     93              1         340898    
+     94              1         340899    
+     95              1         340900    
+     96              1         340901    
+     97              1         340902    
+     98              1         340903    
+     99              6         340909    
+    100              4         340913    
+    101          14534         355447    
+    102              1         355448    
+    103              1         355449    
+    104              1         355450    
+    105              1         355451    
+    106              1         355452    
+    107              1         355453    
+    108              1         355454    
+    109              6         355460    
+    110              4         355464    
+    111            533         355997    
+    112              1         355998    
+    113              1         355999    
+    114              1         356000    
+    115              1         356001    
+    116              1         356002    
+    117              1         356003    
+    118              1         356004    
+    119              6         356010    
+    120              4         356014    
+    121           3379         359393    
+    122              1         359394    
+    123              1         359395    
+    124              1         359396    
+    125              1         359397    
+    126              1         359398    
+    127              1         359399    
+    128              1         359400    
+    129              6         359406    
+    130              4         359410    
+    131            788         360198    
+    132              1         360199    
+    133              1         360200    
+    134              1         360201    
+    135              1         360202    
+    136              1         360203    
+    137              1         360204    
+    138              1         360205    
+    139              6         360211    
+    140              4         360215    
+    141           4084         364299    
+    142              1         364300    
+    143              1         364301    
+    144              1         364302    
+    145              1         364303    
+    146              1         364304    
+    147              1         364305    
+    148              1         364306    
+    149              6         364312    
+    150              4         364316    
+    151            761         365077    
+    152              1         365078    
+    153              1         365079    
+    154              1         365080    
+    155              1         365081    
+    156              1         365082    
+    157              1         365083    
+    158              1         365084    
+    159              6         365090    
+    160              4         365094    
+    161          14333         379427    
+    162              1         379428    
+    163              1         379429    
+    164              1         379430    
+    165              1         379431    
+    166              1         379432    
+    167              1         379433    
+    168              1         379434    
+    169              6         379440    
+    170              4         379444    
+    171            767         380211    
+    172              1         380212    
+    173              1         380213    
+    174              1         380214    
+    175              1         380215    
+    176              1         380216    
+    177              1         380217    
+    178              1         380218    
+    179              6         380224    
+    180              4         380228    
+    181           6929         387157    
+    182              1         387158    
+    183              1         387159    
+    184              1         387160    
+    185              1         387161    
+    186              1         387162    
+    187              1         387163    
+    188              1         387164    
+    189              6         387170    
+    190              4         387174    
+    191            748         387922    
+    192              1         387923    
+    193              1         387924    
+    194              1         387925    
+    195              1         387926    
+    196              1         387927    
+    197              1         387928    
+    198              1         387929    
+    199              6         387935    
+    200              4         387939    
+    201           7243         395182    
+    202              1         395183    
+    203              1         395184    
+    204              1         395185    
+    205              1         395186    
+    206              1         395187    
+    207              1         395188    
+    208              1         395189    
+    209              6         395195    
+    210              4         395199    
+    211            722         395921    
+    212              1         395922    
+    213              1         395923    
+    214              1         395924    
+    215              1         395925    
+    216              1         395926    
+    217              1         395927    
+    218              1         395928    
+    219              6         395934    
+    220              4         395938    
+    221           5182         401120    
+    222              1         401121    
+    223              1         401122    
+    224              1         401123    
+    225              1         401124    
+    226              1         401125    
+    227              1         401126    
+    228              1         401127    
+    229              6         401133    
+    230              4         401137    
+    231            582         401719    
+    232              1         401720    
+    233              1         401721    
+    234              1         401722    
+    235              1         401723    
+    236              1         401724    
+    237              1         401725    
+    238              1         401726    
+    239              6         401732    
+    240              4         401736    
+    241           3225         404961    
+    242              1         404962    
+    243              1         404963    
+    244              1         404964    
+    245              1         404965    
+    246              1         404966    
+    247              1         404967    
+    248              1         404968    
+    249              6         404974    
+    250              4         404978    
+    251            736         405714    
+    252              1         405715    
+    253              1         405716    
+    254              1         405717    
+    255              1         405718    
+    256              1         405719    
+    257              1         405720    
+    258              1         405721    
+    259              6         405727    
+    260              4         405731    
+    261           2497         408228    
+    262              1         408229    
+    263              1         408230    
+    264              1         408231    
+    265              1         408232    
+    266              1         408233    
+    267              1         408234    
+    268              1         408235    
+    269              6         408241    
+    270              4         408245    
+    271            704         408949    
+    272              1         408950    
+    273              1         408951    
+    274              1         408952    
+    275              1         408953    
+    276              1         408954    
+    277              1         408955    
+    278              1         408956    
+    279              6         408962    
+    280              4         408966    
+    281           2305         411271    
+    282              1         411272    
+    283              1         411273    
+    284              1         411274    
+    285              1         411275    
+    286              1         411276    
+    287              1         411277    
+    288              1         411278    
+    289              6         411284    
+    290              4         411288    
+    291            696         411984    
+    292              1         411985    
+    293              1         411986    
+    294              1         411987    
+    295              1         411988    
+    296              1         411989    
+    297              1         411990    
+    298              1         411991    
+    299              6         411997    
+    300              4         412001    
+    301          25701         437702    
+    302              1         437703    
+    303              1         437704    
+    304              1         437705    
+    305              1         437706    
+    306              1         437707    
+    307              1         437708    
+    308              1         437709    
+    309              6         437715    
+    310              4         437719    
+    311            527         438246    
+    312              1         438247    
+    313              1         438248    
+    314              1         438249    
+    315              1         438250    
+    316              1         438251    
+    317              1         438252    
+    318              1         438253    
+    319              6         438259    
+    320              4         438263    
+    321          15822         454085    
+    322              1         454086    
+    323              1         454087    
+    324              1         454088    
+    325              1         454089    
+    326              1         454090    
+    327              1         454091    
+    328              1         454092    
+    329              6         454098    
+    330              4         454102    
+    331            566         454668    
+    332              1         454669    
+    333              1         454670    
+    334              1         454671    
+    335              1         454672    
+    336              1         454673    
+    337              1         454674    
+    338              1         454675    
+    339              6         454681    
+    340              4         454685    
+    341           6550         461235    
+    342              1         461236    
+    343              1         461237    
+    344              1         461238    
+    345              1         461239    
+    346              1         461240    
+    347              1         461241    
+    348              1         461242    
+    349              6         461248    
+    350              4         461252    
+    351            739         461991    
+    352              1         461992    
+    353              1         461993    
+    354              1         461994    
+    355              1         461995    
+    356              1         461996    
+    357              1         461997    
+    358              1         461998    
+    359              6         462004    
+    360              4         462008    
+    361         224719         686727    
+    362              1         686728    
+    363              1         686729    
+    364              1         686730    
+    365              1         686731    
+    366              1         686732    
+    367              1         686733    
+    368              1         686734    
+    369              6         686740    
+    370              4         686744    
+    371          19704         706448    
+    372              1         706449    
+    373              1         706450    
+    374              1         706451    
+    375              1         706452    
+    376              1         706453    
+    377              1         706454    
+    378              1         706455    
+    379              6         706461    
+    380              4         706465    
+    381           4810         711275    
+    382              1         711276    
+    383              1         711277    
+    384              1         711278    
+    385              1         711279    
+    386              1         711280    
+    387              1         711281    
+    388              1         711282    
+    389              6         711288    
+    390              4         711292    
+    391              4         711296    
+    392              1         711297    
+    393              1         711298    
+    394              1         711299    
+    395              1         711300    
+    396              1         711301    
+    397              1         711302    
+    398              1         711303    
+    399              1         711304    
+    400              1         711305    
+    401              1         711306    
+    402              1         711307    
+    403              1         711308    
+    404              1         711309    
+    405              1         711310    
+    406              1         711311    
+    407              1         711312    
+    408              1         711313    
+    409              1         711314    
+    410              1         711315    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0           232                  1810
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+mc_icon_doc                            0             0                     0
+loc                                    0             0                     0
+icon_cc                              672             0                     0
+Symbol 175                             0             0                     0
+Symbol 174                             0             0                     0
+Symbol 173                             0             0                     0
+Symbol 172                             0             0                     0
+Symbol 171                             0             0                     0
+Symbol 170                             0             0                     0
+Symbol 169                             0             0                     0
+Symbol 168                             0             0                     0
+Symbol 167                             0             0                     0
+txt_s4i                                0             0                     0
+mc_fade_FFFFFF                         0             0                     1
+graphic_transition_01                 53             0                     0
+graphic_transition_02                 69             0                     0
+oval ffffff                            0             0                     0
+mc_transition                          0             0                    49
+mc_contact                             0          4531                     0
+mc_cardiff                             0            49                   119
+mc_cardiff_mov                         0            51                   117
+mc_exeter_mov                         41           124                    67
+mc_s1p                                 0           205                   153
+mc_s5p                                 0           205                   153
+mc_s6p                                 0           211                   153
+mc_s7p                                 0           192                   153
+mc_s8p                                 0           166                   153
+mc_s11p                                0           147                   154
+mc_s12p                                0           139                   154
+mc_s4p                                 0           232                   153
+mc_s3p                                 0           141                    24
+mc_s9p                                 0           191                    24
+mc_s10p                                0           180                   154
+mc_s13p                                0           135                    25
+mc_s14p                                0           174                    25
+mc_s15p                                0           178                   154
+mc_s2p                                 0           152                   153
+mc_s99p                                0             0                     0
+mc_s1i                                 0           114                    24
+mc_s4i                                 0           113                    24
+mc_s2i                                 0            49                    24
+mc_s6i                                 0            60                    24
+mc_s7i                                 0            53                    24
+mc_s8i                                 0            51                    24
+mc_s9i                                 0            47                    24
+mc_s10i                                0            47                    25
+mc_s11i                                0            51                    25
+mc_s12i                                0            49                    25
+mc_s15i                                0            55                    25
+mc_s14i                                0             0                    25
+mc_s13i                                0             0                    25
+mc_s3i                                 0            54                    24
+mc_s99i                                0             0                     0
+mc_s5i                                 0            53                    24
+mc_exeter_2008                         0          1026                  2249
+mc_home                                0          1775                   312
+mc_home_herbert                        0            53                    66
+mc_home_michael                       41            54                    66
+graphic_photo_element_base            37             0                     0
+graphic_photo_01                       0             0                     0
+graphic_presenter_04                   0             0                     0
+graphic_presenter_04b                  0             0                     0
+graphic_presenter_placeholder          0             0                     0
+graphic_presenter_xx                   0             0                     0
+graphic_presenter_14                   0             0                     0
+graphic_presenter_13e                  0             0                     0
+graphic_presenter_13d                  0             0                     0
+graphic_presenter_13c                  0             0                     0
+graphic_presenter_13b                  0             0                     0
+graphic_presenter_13                   0             0                     0
+graphic_presenter_15                   0             0                     0
+graphic_presenter_09                   0             0                     0
+graphic_presenter_12                   0             0                     0
+graphic_presenter_11                   0             0                     0
+graphic_presenter_10                   0             0                     0
+graphic_presenter_08                   0             0                     0
+graphic_presenter_07                   0             0                     0
+graphic_presenter_06                   0             0                     0
+graphic_presenter_05                   0             0                     0
+graphic_presenter_03                   0             0                     0
+graphic_presenter_02                   0             0                     0
+graphic_presenter_01B                  0             0                     0
+graphic_presenter_01                   0             0                     0
+graphic_photo_03                       0             0                     0
+graphic_photo_04                       0             0                     0
+graphic_photo_05                       0             0                     0
+graphic_photo_06                       0             0                     0
+graphic_photo_08                       0             0                     0
+graphic_photo_09                       0             0                     0
+graphic_photo_07                       0             0                     0
+graphic_photo_02                       0             0                     0
+txt_homepage_intro                     0             0                     0
+cell_txt_bg                           41             0                     0
+menu_highlight                        49             0                     0
+color 999900                           0             0                     0
+color 003366                           0             0                     0
+color 666666                           0             0                     0
+color gradient exeter                 32             0                     0
+color gradient top                     0             0                     0
+color 003300                           0             0                     0
+color gradient cardiff                35             0                     0
+color 000000                          22             0                     0
+color dddddd                           0             0                     0
+color FFFFFF                           0             0                     0
+mc_myContainer                        28             0                     0
+color 330033                          22             0                     0
+color 330020                          22             0                     0
+color 220033                          22             0                     0
+color 110033                          22             0                     0
+color gradient contact                32             0                     0
+color gradient home                   32             0                     0
+menu_bg                               32             0                     0
+menu_txt_home                          0            37                     0
+menu_txt_aberdeen                      0            47                     0
+menu_txt_contact                       0            42                     0
+menu_txt_exeter                        0            48                     0
+menu_aberdeen                          0             0                    51
+menu_contact                           0             0                    52
+menu_exeter                            0             0                    52
+menu_home                              0             0                    50
+btn_hotspot                            0             0                     0
+color bg                              35             0                     0
+logo iatefl                          631             0                     0
+logo_british_council                 460             0                     0
+btn_shared_base_normal                49             0                     0
+btn_shared_base                       40             0                     0
+btn_01txt                              0            48                     0
+btn_03txt                              0            68                     0
+btn_07txt                              0            41                     0
+btn_08txt                              0            51                     0
+btn_05txt                              0            80                     0
+btn_02txt                              0            51                     0
+btn_09txt                              0             0                     0
+btn_10txt                              0            94                     0
+btn_04txt                              0            43                     0
+btn_06txt                              0            47                     0
+shared_reflexion                      49             0                     0
+btn_01                                 0             0                    53
+btn_03                                 0             0                    53
+btn_07                                 0             0                    53
+btn_08                                 0             0                    53
+btn_05                                 0             0                    53
+btn_10                                 0             0                    53
+btn_02                                 0             0                    53
+btn_09                                 0             0                     0
+btn_04                                 0             0                    53
+btn_06                                 0             0                    53
+btn_hit1                               0             0                     0
+mask                                   0             0                     0
+icon_session                          47             0                     0
+btn_square_hit                         0             0                     0
+btn_close                              0             0                     0
+square_session                         0           156                   139
+icon_bubble                           53             0                     0
+loading Symbol 1                      39             0                     0
+loading Symbol 1 blink                 0             0                     0
+loading                                0             0                     0
+mc_exeter_mov_content_body             0          1462                     0
+mc_home_herbert_content_body           0          2098                     0
+mc_home_michael_content_body           0          1554                     0
+mc_s2i_content_body                    0          1116                     0
+mc_s3i_content_body                    0           705                     0
+mc_s5i_content_body                    0           712                     0
+mc_s6i_content_body                    0          1115                     0
+mc_s10i_content_body                   0           743                     0
+mc_s11i_content_body                   0           690                     0
+mc_s12i_content_body                   0           624                     0
+mc_s15i_content_body                   0          1723                     0
+mc_s14i_content_body                   0          3041                     0
+mc_s13i_content_body                   0           974                     0
+mc_s99i_content_body                   0             0                     0
+mc_cardiff_content_body                0          2914                     0
+mc_cardiff_content_mov_body            0          4061                     0
+mc_s7i_content_body                    0          1085                     0
+mc_s8i_content_body                    0           729                     0
+mc_s9i_content_body                    0           803                     0
+mc_s4i_content_body                    0           897                     0
+mask for content Main                 28             0                     0
+graphic_scrollbar                     25             0                     0
+graphic_dragger                       24             0                     0
+mc_s1i_content                         0             0                  1039
+mc_exeter_mov_content                  0             0                  1039
+mc_home_herbert_content                0             0                  1039
+mc_home_michael_content copy           0             0                  1039
+mc_s2i_content                         0             0                     0
+mc_s3i_content                         0             0                     0
+mc_s5i_content                         0             0                     0
+mc_s6i_content                         0             0                     0
+mc_s10i_content                        0             0                     0
+mc_s11i_content                        0             0                     0
+mc_s12i_content                        0             0                     0
+mc_s15i_content                        0             0                  1039
+mc_s14i_content                        0             0                  1039
+mc_s13i_content                        0             0                     0
+mc_s99i_content                        0             0                     0
+mc_cardiff_content                     0             0                  1039
+mc_cardiff_mov_content                 0             0                  1039
+mc_s7i_content                         0             0                     0
+mc_s8i_content                         0             0                     0
+mc_s9i_content                         0             0                     0
+mc_s4i_content                         0             0                     0
+color 00ffff                          25             0                     0
+mc_s1i_content_body                    0          1638                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+British Council Sans Light     9152     -ABCDGHJMPRSUWZabcdefghilmnoprstuvwyz
+British Council Sans Black    12064     &,-.012349:?ABCDEFGHIJKLMNOPRSTUVWZabcdefghiklmnopqrstuvwxyz–
+British Council Sans Black Italic     8142    .0123456789
+British Council Sans Black Bold     3302     ()029ABCEFHILMPTWabcdefghiklmnorstuvwx–
+British Council Sans XLight     9516     0123456789ACEHMOPSabcdefhilnorstux
+British Council Sans Bold      9166     0289ACEFHILOTacdefilmnortx
+British Council Sans          15342     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~·ŵ–‘’“”•
+
+ActionScript Bytes    Location
+------------------    --------
+              1684    Scene 1:action:1
+                41    Scene 1:headerbase:5:No instance name assigned(color FFFFFF)
+                41    Scene 1:headerbase:5:No instance name assigned(color FFFFFF)
+                 1    menu_aberdeen:action:1
+                49    menu_aberdeen:hit area:1:No instance name assigned(btn_hotspot)
+                 1    menu_aberdeen:action:11
+                 1    menu_home:action:1
+                48    menu_home:hit area:1:No instance name assigned(btn_hotspot)
+                 1    menu_home:action:11
+                 1    menu_exeter:action:1
+                50    menu_exeter:hit area:1:No instance name assigned(btn_hotspot)
+                 1    menu_exeter:action:11
+                 1    menu_contact:action:1
+                50    menu_contact:hit area:1:No instance name assigned(btn_hotspot)
+                 1    menu_contact:action:11
+                 1    mc_fade_FFFFFF:Layer 2:11
+                 1    btn_05:action:1
+                51    btn_05:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_05:action:7
+                29    mc_home:btn:1:No instance name assigned(btn_05)
+                 1    btn_10:action:1
+                51    btn_10:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_10:action:7
+                57    mc_home:btn:1:No instance name assigned(btn_10)
+                45    mc_home:action:10
+                45    mc_home:action:17
+                45    mc_home:action:54
+                45    mc_home:action:56
+                45    mc_home:action:58
+                 1    mc_home:action:60
+                48    mc_transition:Layer 5:7
+                 1    mc_transition:Layer 5:91
+                 1    Scene 1:action:19
+               260    
+                 1    btn_06:action:1
+                51    btn_06:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_06:action:7
+                24    mc_home_herbert:text:1:No instance name assigned(btn_06)
+              1039    mc_home_herbert_content:AS:1
+                41    mc_home_herbert:action:16
+                 1    mc_home_herbert:action:60
+                 1    Scene 1:action:29
+               260    
+                24    mc_home_michael:text:1:No instance name assigned(btn_06)
+              1039    mc_home_michael_content copy:AS:1
+                41    mc_home_michael:action:16
+                 1    mc_home_michael:action:40
+                 1    Scene 1:action:39
+                 1    btn_03:action:1
+                51    btn_03:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_03:action:7
+                28    mc_exeter_2008:Layer 7:1:No instance name assigned(btn_03)
+                 1    square_session:action:1
+               113    square_session:btn_hotspot:1:No instance name assigned(btn_hotspot)
+                 1    square_session:action:6
+                24    square_session:action:11
+               115    mc_exeter_2008:square_session:1:session1(square_session)
+                95    mc_exeter_2008:square_session:1:session2(square_session)
+                88    mc_exeter_2008:square_session:1:session3(square_session)
+               128    mc_exeter_2008:square_session:1:session4(square_session)
+               116    mc_exeter_2008:square_session:1:session5(square_session)
+               119    mc_exeter_2008:square_session:1:session6(square_session)
+               110    mc_exeter_2008:square_session:1:session7(square_session)
+                98    mc_exeter_2008:square_session:1:session8(square_session)
+               109    mc_exeter_2008:square_session:1:session9(square_session)
+               105    mc_exeter_2008:square_session:1:session10(square_session)
+                91    mc_exeter_2008:square_session:1:session11(square_session)
+                89    mc_exeter_2008:square_session:1:session12(square_session)
+                96    mc_exeter_2008:square_session:1:session13(square_session)
+               126    mc_exeter_2008:square_session:1:session14(square_session)
+               104    mc_exeter_2008:square_session:1:session15(square_session)
+                39    mc_exeter_2008:action ruch:8
+                39    mc_exeter_2008:action ruch:12
+                39    mc_exeter_2008:action ruch:16
+                39    mc_exeter_2008:action ruch:16
+                39    mc_exeter_2008:action ruch:20
+                39    mc_exeter_2008:action ruch:24
+                39    mc_exeter_2008:action ruch:28
+                39    mc_exeter_2008:action ruch:28
+                39    mc_exeter_2008:action ruch:32
+                40    mc_exeter_2008:action ruch:36
+                40    mc_exeter_2008:action ruch:40
+                40    mc_exeter_2008:action ruch:40
+                40    mc_exeter_2008:action ruch:44
+                40    mc_exeter_2008:action ruch:48
+                40    mc_exeter_2008:action ruch:52
+                40    mc_exeter_2008:action ruch:56
+                 1    mc_exeter_2008:action:60
+                 6    Scene 1:content:41:No instance name assigned(mc_exeter_2008)
+                 1    Scene 1:action:49
+                 1    btn_04:action:1
+                51    btn_04:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_04:action:7
+                25    mc_exeter_mov:Layer 1:1:No instance name assigned(btn_04)
+              1039    mc_exeter_mov_content:AS:1
+               549    
+                 1    mc_exeter_mov:action:14
+                41    mc_exeter_mov:action:16
+                 1    Scene 1:action:59
+                 1    btn_01:action:1
+                51    btn_01:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_01:action:7
+                23    mc_s1i:Foreground:1:No instance name assigned(btn_01)
+              1039    mc_s1i_content:AS:1
+                 1    mc_s1i:action:20
+                 1    Scene 1:action:69
+               129    mc_s1p:action:1
+                 1    btn_02:action:1
+                51    btn_02:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_02:action:7
+                23    mc_s1p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s1p:action:20
+                 1    Scene 1:action:79
+                23    mc_s2i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s2i:action:20
+                 1    Scene 1:action:89
+               129    mc_s2p:action:1
+                23    mc_s2p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s2p:action:20
+                 1    Scene 1:action:99
+                23    mc_s3i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s3i:action:20
+                 1    Scene 1:action:109
+                 0    mc_s3p:action:1
+                23    mc_s3p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s3p:action:20
+                 1    Scene 1:action:119
+                23    mc_s4i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s4i:action:20
+                 1    Scene 1:action:129
+               129    mc_s4p:action:1
+                23    mc_s4p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s4p:action:20
+                 1    Scene 1:action:139
+                23    mc_s5i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s5i:action:20
+                 1    Scene 1:action:149
+               129    mc_s5p:action:1
+                23    mc_s5p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s5p:action:20
+                 1    Scene 1:action:159
+                23    mc_s6i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s6i:action:20
+                 1    Scene 1:action:169
+               129    mc_s6p:action:1
+                23    mc_s6p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s6p:action:20
+                 1    Scene 1:action:179
+                23    mc_s7i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s7i:action:20
+                 1    Scene 1:action:189
+               129    mc_s7p:action:1
+                23    mc_s7p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s7p:action:20
+                 1    Scene 1:action:199
+                23    mc_s8i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s8i:action:20
+                 1    Scene 1:action:209
+               129    mc_s8p:action:1
+                23    mc_s8p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s8p:action:20
+                 1    Scene 1:action:219
+                23    mc_s9i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s9i:action:20
+                 1    Scene 1:action:229
+                 0    mc_s9p:action:1
+                23    mc_s9p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s9p:action:20
+                 1    Scene 1:action:239
+                24    mc_s10i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s10i:action:20
+                 1    Scene 1:action:249
+               129    mc_s10p:action:1
+                24    mc_s10p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s10p:action:20
+                 1    Scene 1:action:259
+                24    mc_s11i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s11i:action:20
+                 1    Scene 1:action:269
+               129    mc_s11p:action:1
+                24    mc_s11p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s11p:action:20
+                 1    Scene 1:action:279
+                24    mc_s12i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s12i:action:20
+                 1    Scene 1:action:289
+               129    mc_s12p:action:1
+                24    mc_s12p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s12p:action:20
+                 1    Scene 1:action:299
+                24    mc_s13i:Foreground:1:No instance name assigned(btn_01)
+                 1    mc_s13i:action:20
+                 1    Scene 1:action:309
+                 0    mc_s13p:action:1
+                24    mc_s13p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s13p:action:20
+                 1    Scene 1:action:319
+                24    mc_s14i:Foreground:1:No instance name assigned(btn_01)
+              1039    mc_s14i_content:AS:1
+                 1    mc_s14i:action:20
+                 1    Scene 1:action:329
+                 0    mc_s14p:action:1
+                24    mc_s14p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s14p:action:20
+                 1    Scene 1:action:339
+                24    mc_s15i:Foreground:1:No instance name assigned(btn_01)
+              1039    mc_s15i_content:AS:1
+                 1    mc_s15i:action:20
+                 1    Scene 1:action:349
+               129    mc_s15p:action:1
+                24    mc_s15p:foreground:1:No instance name assigned(btn_02)
+               257    
+                 1    mc_s15p:action:20
+                 1    Scene 1:action:359
+              1039    mc_cardiff_content:AS:1
+                 1    btn_07:action:1
+                51    btn_07:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_07:action:7
+                28    mc_cardiff:btn:1:No instance name assigned(btn_07)
+                45    mc_cardiff:action:5
+                45    mc_cardiff:action:15
+                 1    mc_cardiff:action:40
+                 1    Scene 1:action:369
+                 1    btn_08:action:1
+                51    btn_08:hit area:1:No instance name assigned(btn_hotspot)
+                 1    btn_08:action:7
+                26    mc_cardiff_mov:foreground:1:No instance name assigned(btn_08)
+              1039    mc_cardiff_mov_content:AS:1
+                45    mc_cardiff_mov:action:6
+                45    mc_cardiff_mov:action:11
+                 1    mc_cardiff_mov:action:40
+                 1    Scene 1:action:379
+                 1    Scene 1:action:389
+            151685    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+img_0376.png                   32730     1228800   JPEG Quality=80
+bb18.png                       34117     1228800   JPEG Quality=80
+img_s01                         2955       50400   JPEG Quality=80
+img_s01b                        3051       50400   JPEG Quality=80
+img_s02                         1551       26260   JPEG Quality=80
+doc_icon_large.gif              1122        1024   Lossless
+img_s03                        13412      307200   JPEG Quality=80
+img_s04                         1021       26260   JPEG Quality=80
+img_s04b                         867       26260   JPEG Quality=80
+img_s05                         2957       12880   JPEG Quality=80
+img_s06                        12783      250560   JPEG Quality=80
+img_s07                         5417      164160   JPEG Quality=80
+img_s08                         6100      116400   JPEG Quality=80
+img_s09                         3968      120120   JPEG Quality=80
+img_s10                         2069       65920   JPEG Quality=80
+img_s11                         1392       26260   JPEG Quality=80
+img_s12                         1268       50400   JPEG Quality=80
+img_s13                         8518      155520   JPEG Quality=80
+img_s13b                        8787      162240   JPEG Quality=80
+img_s13e                        2250       42720   JPEG Quality=80
+img_s13c                        2125       43200   JPEG Quality=80
+img_s13d                        2260       43200   JPEG Quality=80
+img_s14                        11304      307200   JPEG Quality=80
+img_s15                         3286       98624   JPEG Quality=80
+iStock_000007508763XSmall.jpg    112952      480048   Imported JPEG=102
+iStock_000007502745XSmall.jpg    105789      479576   Imported JPEG=102
+Bitmap 81                       5997      162240   JPEG Quality=80
+Bitmap 82                       6629      174720   JPEG Quality=80
+
+
+
+
