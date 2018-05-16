@@ -35,10 +35,11 @@ form.wufoo {
     margin: 5px 14px 0;
 }
 .wufoo .info h2 {
-    color: #666;
+        color: #656565;
 	font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
 	font-size: 18px;
+	letter-spacing: 1px;
 }
 .confirm h2 {
     font-weight: 300;
