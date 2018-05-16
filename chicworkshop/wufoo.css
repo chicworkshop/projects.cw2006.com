@@ -29,15 +29,16 @@ body {
 	text-align: center;
 }
 .wufoo{
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 form.wufoo {
     margin: 5px 14px 0;
 }
 .wufoo .info h2 {
     color: #666;
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
+	font-size: 18px;
 }
 .confirm h2 {
     font-weight: 300;
