@@ -1,0 +1,71 @@
+body {
+    background: #ece8e3;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    color: #000000;
+    line-height: 1.6;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.main-logo {
+    height: 200px;
+    width: 200px;
+    background-image: url('//cdn.shopify.com/s/files/1/1703/5501/files/logo-002-min_200x.png?11748090545215270240');
+    background-repeat: no-repeat;
+}
+.main-logo img {
+    display: none;
+}
+.aff-signup-left p {
+    color: #000 !important;
+}
+.aff-signup-middle {
+    background-color: transparent; 
+    box-shadow: none;
+}
+.aff-signup-right {
+    background-color: transparent; 
+    box-shadow: none;
+}
+.sign-up-fields span {
+    color: #000;
+}
+.button-primary-fullwidth {
+    background-color: #000;
+    border: 1px solid #000;
+    box-shadow: none;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-size: 13px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    letter-spacing: 1px;
+}
+.button-primary-flat-fullwidth {
+    color: #000;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-size: 13px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    letter-spacing: 1px;
+}
+.intro-text {
+    color: #000;
+    font-size: 26px;
+    font-weight: bold;
+}
+.intro-text span {
+    font-weight: bold;
+}
+.intro-text-alt {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+.sign-up-fields input {
+    font-size: 14px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    letter-spacing: 1px;
+}
+.v2-alerts p {
+    background-color: rgba(236, 30, 37, 0.78);
+}
